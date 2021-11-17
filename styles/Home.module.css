@@ -15,8 +15,23 @@
   display: flex;
   flex: 1;
   padding: 2rem 0;
-  border-top: 1px solid #eaeaea;
   justify-content: center;
+  align-items: center;
+}
+
+.walletButton {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  justify-content: right;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  justify-content: left;
   align-items: center;
 }
 
